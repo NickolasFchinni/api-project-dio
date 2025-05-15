@@ -1,4 +1,4 @@
-# Santander Dev Week 2023
+# Projeto API SpringBoot com Swagger
 
 Java RESTful API criada para estudos com a DIO.
 
